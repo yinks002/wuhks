@@ -1,0 +1,34 @@
+.hero {
+    background: url('./Logo.jpg') no-repeat center center;
+    background-size: cover;
+    text-align: center;
+    padding: 100px 20px;
+    color: #fff;
+  }
+  
+  .hero h1 {
+    font-size: 3rem;
+  }
+  
+  .hero p {
+    font-size: 1.5rem;
+    margin: 20px 0;
+  }
+  
+  .cta-buttons button {
+    padding: 15px 30px;
+    margin: 10px;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  
+  .launch-btn {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .subscribe-btn {
+    background-color: #008CBA;
+    color: white;
+  }
+  

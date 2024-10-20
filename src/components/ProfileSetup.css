@@ -1,0 +1,35 @@
+.profile-setup {
+    padding: 40px 20px;
+    background-color: #f9f9f9; /* Light background */
+  }
+  
+  .profile-setup h2 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .profile-setup form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .profile-setup input, 
+  .profile-setup textarea {
+    width: 100%;
+    max-width: 400px; /* Limit width */
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+  }
+  
+  .profile-setup button {
+    padding: 10px 20px;
+    background-color: #4CAF50; /* Primary action color */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
