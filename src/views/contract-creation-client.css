@@ -1,0 +1,956 @@
+.contract-creation-client-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.contract-creation-client-contract-creation-client {
+  width: 100%;
+  height: 2242px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.contract-creation-client-text100 {
+  top: 141px;
+  left: 31px;
+  color: rgba(0, 0, 0, 1);
+  width: 323px;
+  height: auto;
+  position: absolute;
+  font-size: 21px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contract-creation-client-frame50 {
+  top: 278px;
+  left: 31px;
+  width: 331px;
+  height: 40px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(175, 174, 174, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.contract-creation-client-text102 {
+  top: 10px;
+  left: 11px;
+  color: rgba(175, 174, 174, 1);
+  width: 277px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contract-creation-client-frame63 {
+  top: 715px;
+  left: 31px;
+  width: 331px;
+  height: 40px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(175, 174, 174, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.contract-creation-client-text104 {
+  top: 10px;
+  left: 11px;
+  color: rgba(175, 174, 174, 1);
+  width: 277px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contract-creation-client-frame621 {
+  top: 1146px;
+  left: 31px;
+  width: 331px;
+  height: 821px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(175, 174, 174, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.contract-creation-client-text106 {
+  top: 13px;
+  left: 11px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contract-creation-client-text108 {
+  top: 189px;
+  left: 11px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contract-creation-client-text110 {
+  top: 43px;
+  left: 11px;
+  color: rgba(0, 0, 0, 1);
+  width: 309px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contract-creation-client-text122 {
+  top: 215px;
+  left: 11px;
+  color: rgba(0, 0, 0, 1);
+  width: 309px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contract-creation-client-text123 {
+  font-weight: 500;
+}
+.contract-creation-client-text124 {
+  font-weight: 400;
+}
+.contract-creation-client-text126 {
+  font-weight: 400;
+}
+.contract-creation-client-text128 {
+  font-weight: 400;
+}
+.contract-creation-client-text130 {
+  font-weight: 400;
+}
+.contract-creation-client-text132 {
+  font-weight: 400;
+}
+.contract-creation-client-text134 {
+  font-weight: 400;
+}
+.contract-creation-client-text135 {
+  font-weight: 500;
+}
+.contract-creation-client-text136 {
+  font-weight: 400;
+}
+.contract-creation-client-text138 {
+  font-weight: 400;
+}
+.contract-creation-client-text140 {
+  font-weight: 400;
+}
+.contract-creation-client-text142 {
+  font-weight: 400;
+}
+.contract-creation-client-text144 {
+  font-weight: 400;
+}
+.contract-creation-client-text146 {
+  font-weight: 400;
+}
+.contract-creation-client-text147 {
+  font-weight: 500;
+}
+.contract-creation-client-text155 {
+  top: 529px;
+  left: 11px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contract-creation-client-text156 {
+  font-weight: 500;
+}
+.contract-creation-client-text158 {
+  font-weight: 500;
+}
+.contract-creation-client-text159 {
+  font-weight: 400;
+}
+.contract-creation-client-text160 {
+  font-weight: 500;
+}
+.contract-creation-client-text162 {
+  font-weight: 500;
+}
+.contract-creation-client-text164 {
+  font-weight: 500;
+}
+.contract-creation-client-text166 {
+  font-weight: 500;
+}
+.contract-creation-client-text167 {
+  font-weight: 400;
+}
+.contract-creation-client-text169 {
+  font-weight: 400;
+}
+.contract-creation-client-text170 {
+  font-weight: 500;
+}
+.contract-creation-client-text172 {
+  font-weight: 500;
+}
+.contract-creation-client-text174 {
+  font-weight: 500;
+}
+.contract-creation-client-text176 {
+  font-weight: 500;
+}
+.contract-creation-client-frame1000005669 {
+  top: 768px;
+  left: 11px;
+  width: 148px;
+  height: 40px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background-color: rgba(175, 174, 174, 1);
+}
+.contract-creation-client-text180 {
+  top: 9px;
+  left: 12px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contract-creation-client-frame1000005670 {
+  top: 768px;
+  left: 166px;
+  width: 148px;
+  height: 40px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(175, 174, 174, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.contract-creation-client-text182 {
+  top: 9px;
+  left: 28px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contract-creation-client-frame54 {
+  top: 365px;
+  left: 31px;
+  width: 331px;
+  height: 250px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(175, 174, 174, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.contract-creation-client-text184 {
+  top: 13px;
+  left: 11px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contract-creation-client-text186 {
+  top: 168px;
+  left: 11px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contract-creation-client-text188 {
+  top: 90px;
+  left: 11px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contract-creation-client-frame561 {
+  top: 119px;
+  left: 11px;
+  width: 309px;
+  height: 40px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(175, 174, 174, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.contract-creation-client-text190 {
+  top: 9px;
+  left: 11px;
+  color: rgba(175, 174, 174, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Light;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contract-creation-client-frame57 {
+  top: 197px;
+  left: 11px;
+  width: 309px;
+  height: 40px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(175, 174, 174, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.contract-creation-client-frame622 {
+  top: 10px;
+  left: 279px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(175, 174, 174, 1);
+}
+.contract-creation-client-frame581 {
+  top: 802px;
+  left: 31px;
+  width: 331px;
+  height: 40px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(175, 174, 174, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.contract-creation-client-radiobuttonunchecked1 {
+  top: 10px;
+  left: 300px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.contract-creation-client-text192 {
+  top: 9px;
+  left: 11px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contract-creation-client-frame59 {
+  top: 849px;
+  left: 31px;
+  width: 331px;
+  height: 40px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(175, 174, 174, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.contract-creation-client-radiobuttonunchecked2 {
+  top: 10px;
+  left: 300px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.contract-creation-client-text194 {
+  top: 9px;
+  left: 11px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contract-creation-client-frame60 {
+  top: 936px;
+  left: 31px;
+  width: 331px;
+  height: 60px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(175, 174, 174, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.contract-creation-client-radiobuttonunchecked3 {
+  top: 20px;
+  left: 300px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.contract-creation-client-text196 {
+  top: 9px;
+  left: 11px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contract-creation-client-frame61 {
+  top: 1003px;
+  left: 31px;
+  width: 331px;
+  height: 60px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(175, 174, 174, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.contract-creation-client-radiobuttonunchecked4 {
+  top: 20px;
+  left: 300px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.contract-creation-client-text200 {
+  top: 9px;
+  left: 11px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contract-creation-client-frame582 {
+  top: 628px;
+  left: 31px;
+  width: 331px;
+  height: 40px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(175, 174, 174, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.contract-creation-client-group10 {
+  top: 9px;
+  left: 69px;
+  width: 193px;
+  height: 21px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.contract-creation-client-frame623 {
+  top: 0px;
+  left: 0px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(175, 174, 174, 1);
+}
+.contract-creation-client-text204 {
+  left: 31px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contract-creation-client-frame55 {
+  top: 406px;
+  left: 42px;
+  width: 309px;
+  height: 40px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(175, 174, 174, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.contract-creation-client-text206 {
+  top: 9px;
+  left: 11px;
+  color: rgba(175, 174, 174, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Light;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contract-creation-client-text208 {
+  top: 244px;
+  left: 31px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contract-creation-client-text210 {
+  top: 681px;
+  left: 31px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contract-creation-client-text212 {
+  top: 331px;
+  left: 31px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contract-creation-client-text214 {
+  top: 768px;
+  left: 31px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contract-creation-client-text216 {
+  top: 902px;
+  left: 31px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contract-creation-client-text218 {
+  top: 1076px;
+  left: 31px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contract-creation-client-text220 {
+  top: 1980px;
+  left: 31px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contract-creation-client-frame562 {
+  top: 2051px;
+  left: 31px;
+  width: 331px;
+  height: 40px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(175, 174, 174, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.contract-creation-client-text222 {
+  top: 11px;
+  left: 11px;
+  color: rgba(175, 174, 174, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contract-creation-client-text224 {
+  top: 2008px;
+  left: 31px;
+  color: rgba(175, 174, 174, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contract-creation-client-text228 {
+  top: 1103px;
+  left: 34px;
+  color: rgba(175, 174, 174, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contract-creation-client-frame68 {
+  top: 2117px;
+  left: 31px;
+  width: 331px;
+  height: 40px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.contract-creation-client-text232 {
+  top: 11px;
+  left: 63px;
+  color: rgba(255, 255, 255, 1);
+  width: 205px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contract-creation-client-frame53 {
+  top: 0px;
+  left: 0px;
+  width: 393px;
+  height: 128px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.contract-creation-client-menu {
+  top: 78px;
+  left: 330px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.contract-creation-client-group2 {
+  top: 70px;
+  left: 143px;
+  width: 175px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.contract-creation-client-text234 {
+  top: 11px;
+  left: 11px;
+  color: rgba(0, 0, 0, 1);
+  width: 155px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contract-creation-client-group7 {
+  top: 70px;
+  left: 31px;
+  width: 75.5999984741211px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.contract-creation-client-text236 {
+  top: 5.454545497894287px;
+  color: rgba(0, 0, 0, 1);
+  width: 40px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: MuseoModerno;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contract-creation-client-text238 {
+  left: 32.599998474121094px;
+  color: rgba(0, 0, 0, 1);
+  width: 43px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: MuseoModerno;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

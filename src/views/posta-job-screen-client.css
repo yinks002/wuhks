@@ -1,0 +1,766 @@
+.posta-job-screen-client-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.posta-job-screen-client-posta-job-screen-client {
+  width: 100%;
+  height: 1406px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.posta-job-screen-client-text10 {
+  top: 141px;
+  left: 31px;
+  color: rgba(0, 0, 0, 1);
+  width: 162px;
+  height: auto;
+  position: absolute;
+  font-size: 21px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.posta-job-screen-client-frame50 {
+  top: 220px;
+  left: 31px;
+  width: 331px;
+  height: 40px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(175, 174, 174, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.posta-job-screen-client-text12 {
+  top: 10px;
+  left: 11px;
+  color: rgba(175, 174, 174, 1);
+  width: 277px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.posta-job-screen-client-frame69 {
+  top: 1073px;
+  left: 31px;
+  width: 331px;
+  height: 40px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(175, 174, 174, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.posta-job-screen-client-text14 {
+  top: 10px;
+  left: 11px;
+  color: rgba(175, 174, 174, 1);
+  width: 110px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.posta-job-screen-client-frame70 {
+  top: 1160px;
+  left: 31px;
+  width: 331px;
+  height: 40px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(175, 174, 174, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.posta-job-screen-client-text16 {
+  top: 10px;
+  left: 11px;
+  color: rgba(175, 174, 174, 1);
+  width: 110px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.posta-job-screen-client-frame55 {
+  top: 479px;
+  left: 31px;
+  width: 331px;
+  height: 40px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(175, 174, 174, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.posta-job-screen-client-text18 {
+  top: 10px;
+  left: 15px;
+  color: rgba(175, 174, 174, 1);
+  width: 167px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.posta-job-screen-client-frame621 {
+  top: 10px;
+  left: 291px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(175, 174, 174, 1);
+}
+.posta-job-screen-client-frame56 {
+  top: 566px;
+  left: 31px;
+  width: 331px;
+  height: 40px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(175, 174, 174, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.posta-job-screen-client-text20 {
+  top: 10px;
+  left: 15px;
+  color: rgba(175, 174, 174, 1);
+  width: 158px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.posta-job-screen-client-frame622 {
+  top: 10px;
+  left: 291px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(175, 174, 174, 1);
+}
+.posta-job-screen-client-frame57 {
+  top: 653px;
+  left: 31px;
+  width: 331px;
+  height: 199px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(175, 174, 174, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.posta-job-screen-client-frame32 {
+  top: 13px;
+  left: 15px;
+  width: 301px;
+  height: 81px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(175, 174, 174, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.posta-job-screen-client-text22 {
+  top: 11px;
+  left: 11px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.posta-job-screen-client-frame623 {
+  top: 10px;
+  left: 268px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(175, 174, 174, 1);
+}
+.posta-job-screen-client-frame34 {
+  top: 13px;
+  left: 15px;
+  width: 301px;
+  height: 81px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(175, 174, 174, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.posta-job-screen-client-text24 {
+  top: 11px;
+  left: 11px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.posta-job-screen-client-frame624 {
+  top: 10px;
+  left: 268px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(175, 174, 174, 1);
+}
+.posta-job-screen-client-frame331 {
+  top: 39px;
+  left: 11px;
+  width: 279px;
+  height: 32px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(175, 174, 174, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.posta-job-screen-client-text26 {
+  top: 7px;
+  left: 11px;
+  color: rgba(175, 174, 174, 1);
+  width: 136px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.posta-job-screen-client-frame35 {
+  top: 105px;
+  left: 15px;
+  width: 301px;
+  height: 81px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(175, 174, 174, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.posta-job-screen-client-text28 {
+  top: 11px;
+  left: 11px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.posta-job-screen-client-frame625 {
+  top: 10px;
+  left: 268px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(175, 174, 174, 1);
+}
+.posta-job-screen-client-frame332 {
+  top: 39px;
+  left: 11px;
+  width: 279px;
+  height: 32px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(175, 174, 174, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.posta-job-screen-client-text30 {
+  top: 7px;
+  left: 11px;
+  color: rgba(175, 174, 174, 1);
+  width: 136px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.posta-job-screen-client-frame54 {
+  top: 320px;
+  left: 31px;
+  width: 331px;
+  height: 112px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(175, 174, 174, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.posta-job-screen-client-text32 {
+  top: 13px;
+  left: 11px;
+  color: rgba(175, 174, 174, 1);
+  width: 271px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.posta-job-screen-client-text34 {
+  top: 186px;
+  left: 31px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.posta-job-screen-client-text36 {
+  top: 1039px;
+  left: 31px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.posta-job-screen-client-text38 {
+  top: 1126px;
+  left: 31px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.posta-job-screen-client-text40 {
+  top: 286px;
+  left: 31px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.posta-job-screen-client-text42 {
+  top: 445px;
+  left: 31px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.posta-job-screen-client-text44 {
+  top: 532px;
+  left: 31px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.posta-job-screen-client-text46 {
+  top: 619px;
+  left: 31px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.posta-job-screen-client-text48 {
+  top: 865px;
+  left: 31px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.posta-job-screen-client-text50 {
+  top: 952px;
+  left: 31px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.posta-job-screen-client-frame65 {
+  top: 899px;
+  left: 31px;
+  width: 331px;
+  height: 40px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(175, 174, 174, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.posta-job-screen-client-frame626 {
+  top: 10px;
+  left: 300px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(175, 174, 174, 1);
+}
+.posta-job-screen-client-frame67 {
+  top: 986px;
+  left: 31px;
+  width: 331px;
+  height: 40px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(175, 174, 174, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.posta-job-screen-client-text52 {
+  top: 11px;
+  left: 47px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.posta-job-screen-client-frame627 {
+  top: 10px;
+  left: 11px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(175, 174, 174, 1);
+}
+.posta-job-screen-client-frame68 {
+  top: 1311px;
+  left: 31px;
+  width: 331px;
+  height: 40px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.posta-job-screen-client-text54 {
+  top: 11px;
+  left: 75px;
+  color: rgba(255, 255, 255, 1);
+  width: 182px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.posta-job-screen-client-frame53 {
+  top: 0px;
+  left: 0px;
+  width: 393px;
+  height: 128px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.posta-job-screen-client-menu {
+  top: 78px;
+  left: 330px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.posta-job-screen-client-group2 {
+  top: 70px;
+  left: 143px;
+  width: 175px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.posta-job-screen-client-text56 {
+  top: 11px;
+  left: 11px;
+  color: rgba(0, 0, 0, 1);
+  width: 155px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.posta-job-screen-client-group7 {
+  top: 70px;
+  left: 31px;
+  width: 75.5999984741211px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.posta-job-screen-client-text58 {
+  top: 5.454545497894287px;
+  color: rgba(0, 0, 0, 1);
+  width: 40px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: MuseoModerno;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.posta-job-screen-client-text60 {
+  left: 32.599998474121094px;
+  color: rgba(0, 0, 0, 1);
+  width: 43px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: MuseoModerno;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

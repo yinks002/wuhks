@@ -1,0 +1,551 @@
+.review-contract-screen-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.review-contract-screen-review-contract-screen {
+  width: 100%;
+  height: 1595px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.review-contract-screen-text100 {
+  top: 141px;
+  left: 31px;
+  color: rgba(0, 0, 0, 1);
+  width: 323px;
+  height: auto;
+  position: absolute;
+  font-size: 21px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.review-contract-screen-frame62 {
+  top: 499px;
+  left: 31px;
+  width: 331px;
+  height: 761px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(175, 174, 174, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.review-contract-screen-text102 {
+  top: 13px;
+  left: 11px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.review-contract-screen-text104 {
+  top: 189px;
+  left: 11px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.review-contract-screen-text106 {
+  top: 43px;
+  left: 11px;
+  color: rgba(0, 0, 0, 1);
+  width: 309px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.review-contract-screen-text118 {
+  top: 215px;
+  left: 11px;
+  color: rgba(0, 0, 0, 1);
+  width: 309px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.review-contract-screen-text119 {
+  font-weight: 500;
+}
+.review-contract-screen-text120 {
+  font-weight: 400;
+}
+.review-contract-screen-text122 {
+  font-weight: 400;
+}
+.review-contract-screen-text124 {
+  font-weight: 400;
+}
+.review-contract-screen-text126 {
+  font-weight: 400;
+}
+.review-contract-screen-text128 {
+  font-weight: 400;
+}
+.review-contract-screen-text130 {
+  font-weight: 400;
+}
+.review-contract-screen-text131 {
+  font-weight: 500;
+}
+.review-contract-screen-text132 {
+  font-weight: 400;
+}
+.review-contract-screen-text134 {
+  font-weight: 400;
+}
+.review-contract-screen-text136 {
+  font-weight: 400;
+}
+.review-contract-screen-text138 {
+  font-weight: 400;
+}
+.review-contract-screen-text140 {
+  font-weight: 400;
+}
+.review-contract-screen-text142 {
+  font-weight: 400;
+}
+.review-contract-screen-text143 {
+  font-weight: 500;
+}
+.review-contract-screen-text151 {
+  top: 529px;
+  left: 11px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.review-contract-screen-text152 {
+  font-weight: 500;
+}
+.review-contract-screen-text154 {
+  font-weight: 500;
+}
+.review-contract-screen-text155 {
+  font-weight: 400;
+}
+.review-contract-screen-text156 {
+  font-weight: 500;
+}
+.review-contract-screen-text158 {
+  font-weight: 500;
+}
+.review-contract-screen-text160 {
+  font-weight: 500;
+}
+.review-contract-screen-text162 {
+  font-weight: 500;
+}
+.review-contract-screen-text163 {
+  font-weight: 400;
+}
+.review-contract-screen-text165 {
+  font-weight: 400;
+}
+.review-contract-screen-text166 {
+  font-weight: 500;
+}
+.review-contract-screen-text168 {
+  font-weight: 500;
+}
+.review-contract-screen-text170 {
+  font-weight: 500;
+}
+.review-contract-screen-text172 {
+  font-weight: 500;
+}
+.review-contract-screen-frame20 {
+  top: 250px;
+  left: 31px;
+  width: 331px;
+  height: 236px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(175, 174, 174, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.review-contract-screen-group21 {
+  top: 88px;
+  left: 73px;
+  width: 175px;
+  height: 25px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.review-contract-screen-text176 {
+  top: 3px;
+  left: 10px;
+  color: rgba(0, 0, 0, 1);
+  width: 155px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.review-contract-screen-ellipse1 {
+  top: 16px;
+  left: 136px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+}
+.review-contract-screen-frame1000005667 {
+  gap: 2px;
+  top: 16px;
+  left: 11px;
+  width: 36px;
+  height: 15px;
+  display: flex;
+  padding: 2px 4px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(115, 116, 116, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: rgba(255, 255, 255, 0.800000011920929);
+}
+.review-contract-screen-text178 {
+  top: 2px;
+  left: 4px;
+  color: var(--dl-color-grey-700);
+  width: 16px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 10px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.review-contract-screen-star {
+  top: 1px;
+  left: 21px;
+  width: 10px;
+  height: 11px;
+  position: absolute;
+}
+.review-contract-screen-text180 {
+  top: 119px;
+  left: 148px;
+  color: rgba(115, 116, 116, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.review-contract-screen-group8 {
+  top: 17px;
+  left: 291px;
+  width: 24px;
+  height: 17px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.review-contract-screen-review {
+  top: 0px;
+  left: 7px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.review-contract-screen-text182 {
+  top: 3px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 10px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.review-contract-screen-group9 {
+  top: 145px;
+  left: 129px;
+  width: 74px;
+  height: 21px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.review-contract-screen-text183 {
+  left: 19px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.review-contract-screen-location {
+  top: 1px;
+  left: 0px;
+  width: 17px;
+  height: 19px;
+  position: absolute;
+}
+.review-contract-screen-frame55 {
+  top: 187px;
+  left: 11px;
+  width: 309px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background-color: rgba(190, 190, 190, 1);
+}
+.review-contract-screen-text185 {
+  top: 4px;
+  left: 123px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.review-contract-screen-text187 {
+  top: 1300px;
+  left: 31px;
+  color: rgba(115, 116, 116, 1);
+  width: 331px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.review-contract-screen-frame57 {
+  top: 1426px;
+  left: 31px;
+  width: 331px;
+  height: 40px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.review-contract-screen-text193 {
+  top: 11px;
+  left: 75px;
+  color: rgba(255, 255, 255, 1);
+  width: 182px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.review-contract-screen-text195 {
+  top: 1269px;
+  left: 31px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.review-contract-screen-frame53 {
+  top: 0px;
+  left: 0px;
+  width: 393px;
+  height: 128px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.review-contract-screen-menu {
+  top: 78px;
+  left: 330px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.review-contract-screen-group22 {
+  top: 70px;
+  left: 143px;
+  width: 175px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.review-contract-screen-text197 {
+  top: 11px;
+  left: 11px;
+  color: rgba(0, 0, 0, 1);
+  width: 155px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.review-contract-screen-group7 {
+  top: 70px;
+  left: 31px;
+  width: 75.5999984741211px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.review-contract-screen-text199 {
+  top: 5.454545497894287px;
+  color: rgba(0, 0, 0, 1);
+  width: 40px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: MuseoModerno;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.review-contract-screen-text201 {
+  left: 32.599998474121094px;
+  color: rgba(0, 0, 0, 1);
+  width: 43px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: MuseoModerno;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

@@ -1,0 +1,24 @@
+.theattachedwireframefocusonenhancinguserflowintheh-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.theattachedwireframefocusonenhancinguserflowintheh-dummy-container {
+  width: 100%;
+  height: 900px;
+}
+.theattachedwireframefocusonenhancinguserflowintheh-text1 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
